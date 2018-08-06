@@ -2,6 +2,7 @@
   "name": "react-test-zw",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "path-to-regexp": "^2.2.1",
     "react": "^16.4.2",
